@@ -2,5 +2,13 @@
 module Day04
   VERSION = "0.1.0"
 
-  # TODO: Put your code here
+  class Runner
+    def part_one
+      :todo_1
+    end
+
+    def part_two
+      :todo_2
+    end
+  end
 end
